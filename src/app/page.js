@@ -9,7 +9,7 @@ export default function Home() {
             <Image
               unoptimized={true}
               src="https://media1.tenor.com/m/Q4SZWsMX2NIAAAAd/dance.gif"
-              alt=""
+              alt="memecoin"
               width={250}
               height={1000}
             />
